@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  period: 2025-02-04
+  reglement_date: 2025-02-04 21:35:23
+  loyer_hors_charge: 1
+  charges: 1
+  adress: MyString
+  code_postal: 1
+  city: MyString
+  owner_name: MyString
+  owner_surname: MyString
+  tenant_name: MyString
+  tenant_surname: MyString
+
+two:
+  period: 2025-02-04
+  reglement_date: 2025-02-04 21:35:23
+  loyer_hors_charge: 1
+  charges: 1
+  adress: MyString
+  code_postal: 1
+  city: MyString
+  owner_name: MyString
+  owner_surname: MyString
+  tenant_name: MyString
+  tenant_surname: MyString

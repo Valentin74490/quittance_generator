@@ -1,0 +1,2 @@
+class Quittance < ApplicationRecord
+end
